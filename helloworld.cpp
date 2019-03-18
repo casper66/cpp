@@ -2,7 +2,7 @@
 #include <windows.h>
 int main()
 {
-    std::cout << "hello MinGW + VS Code!\n";
+    std::cout << "Test For Git hello MinGW + VS Code!\n";
     system("pause");
     return 0;
 }
